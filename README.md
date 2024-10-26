@@ -9,7 +9,7 @@ Textual Compression Unit Test uses python as the primary software technology.
 ## Dependencies
 
 ```
-# pip install lz4 python-snappy zstandard brotli
+pip install lz4 python-snappy zstandard brotli
 ```
 
 ## Usage Examples
