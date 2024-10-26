@@ -1,5 +1,7 @@
 ## Textual Compression Unit Test
 
+![Textual Compression Unit Test](sample.png)
+
 Textual Compression Unit Test is a short script to produce an _indicator_ for the best compression algorithm to potentially deploy for increasing the network efficiency when distributing raw snippets of textual encodings.
 
 ## Requirements
